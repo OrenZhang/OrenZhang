@@ -1,8 +1,8 @@
 ### Overview
 
 <div>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=OrenZhang">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrenZhang&layout=compact">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=OrenZhang&count_private=1&include_all_commits=1&show_icons=1&theme=vue-dark">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrenZhang&layout=compact&theme=vue-dark">
 </div>
 
 ### Using & Leaning
