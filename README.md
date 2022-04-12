@@ -1,16 +1,15 @@
-### Hi there 👋
+### Overview
 
-<!--
-**OrenZhang/OrenZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=OrenZhang">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrenZhang&layout=compact">
+</div>
 
-Here are some ideas to get you started:
+### Using & Leaning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-234a6c?style=for-the-badge&logo=Python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-3fb983?style=for-the-badge&logo=Vue.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=MySQL&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-fec412?style=for-the-badge&logo=Elasticsearch&logoColor=white)
+![GoLang](https://img.shields.io/badge/GoLang-017d9c?style=for-the-badge&logo=Go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-002c65?style=for-the-badge&logo=Docker&logoColor=white)
