@@ -12,4 +12,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-fec412?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![GoLang](https://img.shields.io/badge/GoLang-017d9c?style=for-the-badge&logo=Go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-002c65?style=for-the-badge&logo=Docker&logoColor=white)
+![K8S](https://img.shields.io/badge/Docker-002c65?style=for-the-badge&logo=Docker&logoColor=white)
