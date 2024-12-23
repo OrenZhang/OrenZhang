@@ -1,9 +1,6 @@
 ### Overview
 
-<div>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=OrenZhang&count_private=1&include_all_commits=1&show_icons=1">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrenZhang&layout=compact">
-</div>
+Hi there! 👋 I'm Oren Zhang, a passionate software developer with a focus on backend development, cloud computing, and data engineering. I love exploring new technologies and building impactful projects.
 
 ### Using & Leaning
 
